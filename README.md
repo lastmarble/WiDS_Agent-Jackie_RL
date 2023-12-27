@@ -1,2 +1,2 @@
 # WiDS_Agent-Jackie_RL
-WiDS reinforcement learning projecṭ
+WiDS reinforcement learning project
